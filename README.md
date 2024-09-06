@@ -58,5 +58,5 @@
 
 <h3 align="left">Contribution Graph:</h3>
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=ershivnandan&theme=dracula" alt="ershivnandan" />
+<img src="https://activity-graph.herokuapp.com/graph?username=Ershivnandan&theme=dracula" alt="Ershivnandan" />
 </p>
