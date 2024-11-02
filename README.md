@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ershivnandan&label=Profile%20views&color=0e75b6&style=flat" alt="ershivnandan" /> </p>
 
-- 🔭 I’m currently working on a [Freelancing website](https://wiraa.com/#/) and a [3D Organization website](https://www.gunagya.in/Hidr8)
+- 🔭 My current achievements are [Freelancing website](https://wiraa.com/#/) and a [3D Organization website](https://www.gunagya.in/Hidr8)
 - 🌱 I’m currently learning **Next.js**
 - 👯 Check out my [3D AI Assistant](https://3d-virtual-assistant.vercel.app/) and [3D Portfolio](https://shivnandan-portfolio.vercel.app/)
 - 💬 Ask me about **React, Angular, Ionic, P.W.A., Figma, Blender**
