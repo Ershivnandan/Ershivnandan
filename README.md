@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shiv Nandan Soni</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ershivnandan&label=Profile%20views&color=0e75b6&style=flat" alt="ershivnandan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ershivnandan&label=Profile%20views&color=0e75b6&style=flat" alt="ershivnandan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ershivnandan" alt="ershivnandan" /></a> </p>
+<p align="center" hspace="10"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ershivnandan" alt="ershivnandan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ishivnandansoni" target="blank"><img src="https://img.shields.io/twitter/follow/ishivnandansoni?logo=twitter&style=for-the-badge" alt="ishivnandansoni" /></a> </p>
+<p align="center"> <a href="https://twitter.com/ishivnandansoni" target="blank"><img src="https://img.shields.io/twitter/follow/ishivnandansoni?logo=twitter&style=for-the-badge" alt="ishivnandansoni" /></a> </p>
 
 - My current achievements are [Freelancing website](https://wiraa.com/#/)
 
