@@ -13,7 +13,7 @@
 
 - I’m currently learning Generative AI Bootcamp by [Krish Naik](https://learn.krishnaikacademy.com/)
 
-- 👨‍💻 All of my projects are available at [https://shivnandan-portfolio.vercel.app](https://shivnandan-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [Shiv Nandan Portfolio](https://www.shivnandansoni.com/)
 
 - Ask me about **React, React Native, Express, NodeJS**
 
